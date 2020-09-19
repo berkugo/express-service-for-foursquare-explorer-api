@@ -1,0 +1,16 @@
+body {
+  padding: 3em;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+footer {
+  margin-top: 5rem;
+}
+
+a {
+  color: #00B7FF;
+}
+
+li {
+  padding-top: 0.5rem;
+}
